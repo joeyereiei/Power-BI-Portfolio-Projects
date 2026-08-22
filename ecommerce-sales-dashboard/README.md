@@ -45,7 +45,7 @@ An early dimensional-model test, for example, materially understated Electronics
 
 ## DAX and KPIs
 
-The report uses DAX measures for core KPIs and time-intelligence analysis, including revenue, profit, AOV, profit margin, order metrics, discounts, and high-value orders. Detailed calculations are documented in [`powerbi/dax/README.md`](powerbi/dax/README.md).
+The report uses DAX measures for core KPIs and time-intelligence analysis, including revenue, profit, AOV, profit margin, order metrics, discounts, and high-value orders. Detailed calculations are documented in [`powerbi/dax.md`](powerbi/dax.md).
 
 Core KPIs include:
 
