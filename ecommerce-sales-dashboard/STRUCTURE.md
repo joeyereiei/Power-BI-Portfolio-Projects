@@ -8,9 +8,6 @@ ecommerce-sales-dashboard/
 ├── powerbi/
 │   └── EcommerceDashboard.pbix        # The Power BI report: Overview, Sales Analysis,
 │                                       # and Product & Marketing pages
-│
-│
-├── docs/
 │   └── dax_measures.md                # Reference list of key DAX measures used in the report
 │                                       
 │
