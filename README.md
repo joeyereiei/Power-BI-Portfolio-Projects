@@ -3,11 +3,13 @@
 ![DAX](https://img.shields.io/badge/DAX-217346?style=flat&logo=microsoft&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-This is my personal collection of Power BI dashboards, built to showcase and sharpen my skills in data visualization, business intelligence, and analytics.
+Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
 
-## Project 1: E-commerce Orders Dataset
+Each project lives in its own folder with its own README, data model notes, and key findings — not just screenshots.
 
-An end-to-end Power BI dashboard analyzing ~30,000 e-commerce orders — covering sales performance, product and marketing channel performance.
+## Project 1: E-Commerce Sales Analytics Dashboard
+
+A Power BI dashboard analyzing ~30,000 e-commerce orders — covering sales performance, category profitability, and what actually predicts a high-value order.
 
 ### Overview
 
@@ -17,9 +19,6 @@ This project analyzes a synthetic e-commerce orders dataset (30,000 orders, 41 c
 - **Product & Marketing** — Which categories and channels are worth investing in? Margin % by category, discount cost by device/payment method, traffic source performance.
 - **Sales Analysis** — Why do sales look this way, and what predicts a high-value order? Revenue forecast, peak day/season, and category vs. customer segment as drivers of order value.
 
-### Data Source
-
-[E-commerce Orders Dataset 2026 | SCRA](https://www.kaggle.com/datasets/mmumairkhattak/e-commerce-orders-dataset-2026-scra) — Kaggle, by user `mmumairkhattak`. Synthetic data, 30,000 rows, 41 columns.
 
 ### Tech Stack
 
