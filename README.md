@@ -19,6 +19,14 @@ This project analyzes a synthetic e-commerce orders dataset (30,000 orders, 41 c
 - **Product & Marketing** — Which categories and channels are worth investing in? Margin % by category, discount cost by device/payment method, traffic source performance.
 - **Sales Analysis** — Why do sales look this way, and what predicts a high-value order? Revenue forecast, peak day/season, and category vs. customer segment as drivers of order value.
 
+### Preview
+
+<img width="400" height="221" alt="Screen Recording 2026-08-22 175352" src="https://github.com/user-attachments/assets/f012bfbe-6631-4e31-9356-61979bddb042" />
+
+
+
+
+
 
 ### Tech Stack
 
