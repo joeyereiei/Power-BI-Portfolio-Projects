@@ -9,10 +9,6 @@ ecommerce-sales-dashboard/
 │   └── EcommerceDashboard.pbix        # The Power BI report: Overview, Sales Analysis,
 │                                       # and Product & Marketing pages
 │
-├── data/
-│   └── ecommerce_orders_dataset.csv   # Source dataset (30,000 orders, 41 columns)
-│                                       # See README > Data Source for provenance
-│
 │
 ├── docs/
 │   └── dax_measures.md                # Reference list of key DAX measures used in the report
